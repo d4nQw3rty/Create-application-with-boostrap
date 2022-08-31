@@ -1,3 +1,5 @@
 .header-background {
     background-image: url(./img/Header-bg.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
