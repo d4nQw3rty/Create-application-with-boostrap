@@ -3,3 +3,10 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
+.form-section {
+    background-image: url(./img/contact-form-background-shapes.svg);
+    background-color: #6070ff;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
